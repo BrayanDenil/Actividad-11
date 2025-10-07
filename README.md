@@ -104,7 +104,6 @@ Solución: Verifiqué product.id antes de llamar a update() o delete().
 Reflexión
 
 Durante la actividad pedí a ChatGPT que generara los modelos, Retrofit, repository, ViewModel y UI Compose para implementar CRUD y búsqueda.
-Al principio copié el código directamente, pero encontré errores de nulos y parsing que corregí manualmente.
 Ajusté la UI para asegurar recomposición y validación de entradas.
 Aprendí a integrar MVVM con Retrofit, separar responsabilidades y manejar estado con StateFlow.
 El uso de prompts aceleró la estructura base, mientras que la depuración me enseñó a manejar errores comunes de Android y mantener la app estable.
