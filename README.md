@@ -58,16 +58,11 @@ Mejoras (bonus):
 Sugiere 3 mejoras pequeñas: validación de precio, feedback de errores con Snackbar/Dialog, y formateo de moneda. Dame snippets puntuales.
 
 Capturas de pantalla
-Acción	Captura
-Listar	
+<img width="1840" height="912" alt="image" src="https://github.com/user-attachments/assets/fcd9c19c-2fc8-430d-b362-7fef74f51699" />
+<img width="1776" height="852" alt="image" src="https://github.com/user-attachments/assets/e15ebc26-328f-442c-946e-b23e2fc86648" />
+<img width="1788" height="961" alt="image" src="https://github.com/user-attachments/assets/c0ed8bf4-985c-40a7-8786-e9711d99cf4c" />
+<img width="1832" height="982" alt="image" src="https://github.com/user-attachments/assets/fbbc445a-b907-4132-8623-dadb24e57fba" />
 
-Crear	
-
-Actualizar	
-
-Eliminar	
-
-Búsqueda	
 
 Sustituye las imágenes con tus capturas reales desde el emulador o dispositivo físico.
 
